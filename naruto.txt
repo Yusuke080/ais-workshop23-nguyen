@@ -9,5 +9,4 @@
 \
 naruto\
 sasuke\
-zoro\
 sakura}
